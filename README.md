@@ -1,1 +1,1 @@
-# IT-cource-practice
+# it-cource-practice
