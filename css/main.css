@@ -129,3 +129,9 @@ body {
           text-align: center;
     }
   }
+
+  @media (max-width: 550px) {
+    .logo {
+      font-size: 22px;
+    }
+  }
