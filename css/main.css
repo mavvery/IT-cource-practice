@@ -154,6 +154,7 @@ textarea {
 .news-layer__article__img-block {
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 article {
